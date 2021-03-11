@@ -1,4 +1,4 @@
-# Task List written PHP, a simple CRUD using PDO
+# Task List written in PHP, a simple CRUD using PDO
 *A simple app for studie pruposes. Do not use this project in production.*
 
 ## Installation
@@ -8,7 +8,7 @@ Just create the database and copy this content of this repository following this
 
 Copy content **htdocs** to
 [parent_folder]
-└── [htdocs]
+└──[htdocs]
 
 Copy content **app** to
 [parent_folder]
