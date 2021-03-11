@@ -1,3 +1,6 @@
+<?php
+	// Put your php code here
+?>
 <!-- Footer -->
 <div class="parallax-work-bottom"></div>
 <footer class="container-fluid bg-dark text-center fixed-bottom">

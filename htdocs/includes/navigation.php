@@ -1,3 +1,6 @@
+<?php
+	// Put your php code here
+?>
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-end fixed-top nav-mystyle">
 	<!-- Logo -->
 	<a class="nav-link" href="./">
@@ -23,4 +26,3 @@
 		</ul>
 	</div>
 </nav>
-

@@ -1,3 +1,6 @@
+<?php
+	// Put your php code here
+?>
 <!--Design to appear on the top-->
 <div class="parallax-work"></div>
 <div class="navbar navbar-light justify-content-center" style="background-color:#101010; opacity:95%">
