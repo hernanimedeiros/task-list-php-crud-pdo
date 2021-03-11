@@ -6,13 +6,10 @@ In this exercicie, I used my favourite environment for PHP development: the Dock
 
 Just create the database and copy this content of this repository following this instructions:
 
-Copy content **htdocs** to
-[parent_folder]
-└──[htdocs]
+Copy the content of **htdocs** to [parent_folder]>>[htdocs]
 
-Copy content **app** to
-[parent_folder]
+Copy the content of **app** to [parent_folder]
 
 
 ## Database creation
-Create database following the instructions on the root of this repository -> database_creation.txt
+Create the database, following the instructions on the root of this repository: **database_creation.txt**
