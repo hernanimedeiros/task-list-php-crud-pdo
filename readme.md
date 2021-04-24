@@ -1,5 +1,5 @@
 # Task List written in PHP, a simple CRUD using PDO
-*A simple app for studie pruposes. Do not use this project in production. Created in the third quarter of 2020*
+*A simple app for studie pruposes. Do not use this project in production.*
 
 
 ## Installation
